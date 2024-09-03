@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaticoded" alt="swaticoded" /></a> </p>
 
-- 🌱 I’m currently learning **kubernetes**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Python**
 
