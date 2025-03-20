@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Swati</h1>
-<h3 align="center">A passionate Backend developer and Devops engineer from India</h3>
+<h3 align="center">A passionate Mern Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaticoded&label=Profile%20views&color=0e75b6&style=flat" alt="swaticoded" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaticoded" alt="swaticoded" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Express.JS**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python**, **HTML**, **CSS**, **JavaScript**, **NodeJs**
 
 - 📫 How to reach me **swatiofficial181@gmail.com**
 
